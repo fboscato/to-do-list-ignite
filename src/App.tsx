@@ -1,9 +1,14 @@
+import { Header } from "./components/Header"
+import { Post } from "./components/Post"
 
 function App() {
  
 
   return (
-    <h1>aaaa</h1>
+    <div>
+      <Header />
+      <Post/>
+    </div>
   )
 }
 

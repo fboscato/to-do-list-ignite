@@ -1,0 +1,9 @@
+input {
+    background: var(--gray-300);
+    align-items: center;
+}
+
+
+button {
+    background: var(--purpleDark);
+}
